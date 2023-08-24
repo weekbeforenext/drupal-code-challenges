@@ -79,11 +79,13 @@ Once copied, convert all of the draft issues into issues.
 ### Project Workflow
 - Pick up tasks from the top of the "Todo" column and move it to the "In Progress" column.
 - When you complete the task, move it to the "Done" column.
+- If you are working with a team or mentor, you can add an "In Review" column between "In Progress" and "Done". When you would like someone to review your work, you can move the issue to that column and assign it to the person you'd like to review it.
 
 ### Issue Management
 - Create additional issues as needed to break down large tasks into smaller ones.
 - Before you step away from an issue, leave comments on the issues to document:
     - what you did (helpful links, things that worked, things that didn't work)
-    - what you plan to do next
+    - "Next steps" - what you plan to do next
 - Bulleted lists and headings help make your comments easier to read and understand when you return to the issue.
+- If you are working with a team or mentor, you can use comments to ask questions as well. Create a "Questions" heading and mention the person who might have the answers.
 
