@@ -51,7 +51,7 @@ Pull requests are how you merge your feature branches into the `develop` working
 
 Just be sure to set your "base" to `develop` and "compare" to your feature branch.
 
-## Updating `main` branch
+## Updating `main` Branch
 When your code is stable in the `develop` branch, you can create a Pull Request to merge `develop` into `main` using similar steps as feature branches.
 
 This time, set your "base" to `main` and "compare" to the `develop` branch.
