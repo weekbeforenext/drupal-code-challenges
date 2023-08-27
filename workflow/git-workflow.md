@@ -5,6 +5,7 @@ While this workflow might be overkill for these code challenges, it will help bu
 - [Creating a new repository (GitHub)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 - [Inviting collaborators to a personal repository (GitHub)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
     - This is important if you are working with a mentor or team.
+- [Adding locally hosted code to GitHub (GitHub)](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 
 When you initialize a Git repository, the `main` branch is created by default.
 
