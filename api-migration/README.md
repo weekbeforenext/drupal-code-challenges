@@ -26,7 +26,7 @@ Build a Drupal 10+-compatible module that installs a content model and populates
     1. Testing instructions (step-by-step how to verify the module works as expected).
     1. Link to the content model documentation.
     1. Other information someone should know before they install the module.
-   1. Link to the project management tool used to develop the module.
+   1. Link to the project board used to develop the module.
 1. The custom module code includes code comments.
 1. The custom module follows Drupal Coding Standards.
 
