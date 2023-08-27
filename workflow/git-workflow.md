@@ -49,9 +49,9 @@ These are branches connected to an issue in the project board.
 Pull requests are how you merge your feature branches into the `develop` working branch. It also allows your work to be reviewed by a mentor or team member before it merges.
 - [Creating a pull request (GitHub)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-Just be sure to set your `base` to `develop` and `compare` to your feature branch.
+Just be sure to set your "base" to `develop` and "compare" to your feature branch.
 
 ## Updating `main` branch
 When your code is stable in the `develop` branch, you can create a Pull Request to merge `develop` into `main` using similar steps as feature branches.
 
-This time, set your `base` to `main` and `compare` to the `develop` branch.
+This time, set your "base" to `main` and "compare" to the `develop` branch.
