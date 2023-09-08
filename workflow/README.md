@@ -1,10 +1,15 @@
 # Getting Started
 To demonstrate your written communication, task management, and documentation skills, create a public project management board to track your progress and document your journey.
 
+- [Project Management](#project-management)
+- [Project Workflow](#project-workflow)
+- [Issue Management](#issue-management)
+
 ## Project Management
 1. Copy the GitHub project board with draft issues provided by the code challenge as a suggested starting point.
     - [Copying an existing project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/copying-an-existing-project)
 1. Create a new GitHub repository for this project.
+    - [Git Workflow: New Repository Setup](git-workflow#new-repository-setup)
 1. Once copied, convert all of the draft issues into issues.
     - [Converting draft issues to issues](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/converting-draft-issues-to-issues#converting-draft-issues-in-board-layout)
 
