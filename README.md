@@ -16,12 +16,8 @@ They can be completed alone, with a mentor, or with a team of developers.
 
 Each challenge includes a GitHub project board that can be copied as a starting point with draft issues.
 
----
-
 ## Code Challenges
 1. [API Migration](api-migration/README.md)
-
----
 
 ## How can I test code challenge solutions?
 
