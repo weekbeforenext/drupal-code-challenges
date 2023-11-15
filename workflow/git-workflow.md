@@ -48,8 +48,6 @@ These are branches connected to an issue in the project board.
     git push -u origin <feature-branch>
     ```
 
-
-
 ## Pull Requests
 Pull requests are how you merge your feature branches into the `develop` working branch. It also allows your work to be reviewed by a mentor or team member before it merges.
 - [Creating a pull request (GitHub)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
