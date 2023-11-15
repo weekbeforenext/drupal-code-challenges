@@ -16,7 +16,7 @@ They can be completed alone, with a mentor, or with a team of developers.
 
 Each challenge includes a GitHub project board that can be copied as a starting point with draft issues.
 
-## How can I easily test my code challenge solutions?
+## How can I test code challenge solutions?
 
 A Drupal test site repository is available in the [drupal-code-challenges-test](https://github.com/weekbeforenext/drupal-code-challenges-test) project. This repository is configured to run locally with [DDEV](https://ddev.com/), integrate with [Tugboat](https://www.tugboatqa.com/), and includes custom DDEV commands to add GitHub project modules to composer.
 
